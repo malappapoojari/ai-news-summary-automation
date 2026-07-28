@@ -50,6 +50,15 @@ Gmail (Send Daily Summary)
 ## 📷 Workflow Screenshot
 ![Workflow](workflow.png)
 
+
+## 🎥 Workflow Demo
+
+Download and watch the workflow demo:
+
+[▶️ AI News Workflow Demo](ainewsworkflow.mp4)
+
+
+
 ---
 
 ## 📂 Repository Contents
