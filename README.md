@@ -48,8 +48,7 @@ Gmail (Send Daily Summary)
 ---
 
 ## 📷 Workflow Screenshot
-
-![Workflow](Screenshot%202026-07-27%20194156.png)
+![Workflow](workflow.png)
 
 ---
 
